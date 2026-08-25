@@ -14,7 +14,7 @@ Sou estudante de Tecnologia da Informação, apaixonado por conectar lógica e c
 
 ## 💡 Interesses de Desenvolvimento
 
-* **Desenvolvimento Front-End & UI:** Aplicar fundamentos de Design em código para entregar interfaces web acessíveis e com excelente usabilidade.
+* **Segurança de Software & InfoSec:** Compreender vulnerabilidades e aplicar boas práticas de desenvolvimento seguro desde a base do código.
 * **Automação com Python:** Criar scripts para otimizar processos diários e resolver problemas de lógica.
 * **Projetos Multimídia:** Unir animação, manipulação de imagem e desenvolvimento de software.
 
